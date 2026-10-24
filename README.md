@@ -1,4 +1,4 @@
-# Site — Cuidadora de Idosos
+# Site — Acompanhante de Idosos
 
 Primeira versão de teste, feita com HTML, CSS e JavaScript puros.
 
